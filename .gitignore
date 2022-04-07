@@ -12,3 +12,4 @@ yarn-error.log*
 raw_reports
 cypress/screenshots
 cypress/videos
+config.bat
